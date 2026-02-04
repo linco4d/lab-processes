@@ -117,7 +117,7 @@ You can end the program by pressing `^C`.
 For Mac users, ensure that you are pressing `CTRL` and not `Command`.)
 
 Note that the `./` is required. 
-If you ommit it, then you will get the following error:
+If you omit it, then you will get the following error:
 ```
 $ script.sh
 bash: script.sh: command not found
@@ -545,7 +545,7 @@ Paste the output of your
 ```
 $ cat output | sort
 ```
-command to sakai.
+command to canvas.
 
 If you finish early, you should start the typespeed caveat task if you have not already done so.
 At this point, you have seen all of the terminal tricks needed to understand both the main task and the extra credit.
